@@ -1,2 +1,2 @@
-# PET-project-
+# PET-project
 My RET project is aimed at researching the efficiency of a chain of coffee shops. Identify the most popular products and products that are not in demand. Research peak times for coffee shops. Analyze the structure of the proposals. If necessary, provide recommendations to business owners. The Kaggle platform was used to obtain data for analysis. I liked the set of the fictional coffee shop Maven Roasters, which operates in three locations in New York. The data set includes transaction date and time, location, and product-level information. Data for analysis includes the period January - June 2023. I was interested in exploring how Maven Roasters' sales have changed over time. What is the most profitable business?
